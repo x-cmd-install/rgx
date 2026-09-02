@@ -1,0 +1,59 @@
+about:
+  description: regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
+  license: Apache-2.0
+  homepage: https://github.com/brevity1swos/rgx
+  head: 62704fb
+  archived: false
+  latestVersion: v0.14.2
+  collectedAt: 2026-09-02T05:04:47Z
+timeline:
+  created: 2026-02-22
+  lastCommit: 2026-07-07
+  lastRelease: 2026-07-07
+popularity:
+  star: 234
+  watcher: 1
+  fork: 4
+  release: 40
+  contributor: 5
+  pullRequest: 12
+  issue: 24
+language:
+  Rust: 430181
+  Python: 21510
+  TypeScript: 3056
+  Lua: 1820
+totalLine: 456567
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 7
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 14
+  last180d:
+    since: 2026-03-06
+    release: 24
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 24
+    openIssue: 0
+    commit: 186
+  last360d:
+    since: 2025-09-07
+    release: 40
+    mergedPR: 51
+    openPR: 0
+    closedIssue: 24
+    openIssue: 0
+    commit: 248
