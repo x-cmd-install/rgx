@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.14.2"
   latestRelease: "v0.14.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:24:37Z
+  collectedAt: 2026-09-10T17:21:16Z
 timeline:
   created: 2026-02-22
   lastCommit: 2026-07-07
@@ -86,7 +86,7 @@ total:
   commit: 286
 ---
 path: /home/runner/.x-repo/github.com/brevity1swos/rgx
-collectedAt: 2026-09-10T05:24:42Z
+collectedAt: 2026-09-10T17:21:20Z
 loc:
   Rust:
     code: 11116
