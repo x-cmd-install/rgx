@@ -4,13 +4,25 @@
 
 regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 
-![rgx](https://repo.x-cmd.io/rgx.svg)
+![rgx](https://repo.x-cmd.io/rgx.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install rgx
 ```
+
+## 代码规模
+
+合计: **16,067** 行代码（覆盖前 5 种语言、共 **60** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 11,116 | 417 | 1,239 | 49 |
+| Json | 4,144 | 0 | 0 | 4 |
+| Python | 531 | 61 | 110 | 2 |
+| Toml | 139 | 27 | 14 | 4 |
+| TypeScript | 66 | 11 | 7 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install rgx
 - **最新版本**: `v0.14.2` (2026-07-07)
 - **最近提交**: 2026-07-07
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-07-07T20:38:08Z
 
 ## 流行度
 
@@ -38,20 +49,41 @@ x install rgx
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 1 | 0 | 0 | 0 | 10 |
+| last180d | 2026-03-14 | 21 | 23 | 0 | 12 | 0 | 170 |
 | 360d | 2025-09-15 | 40 | 51 | 0 | 24 | 0 | 248 |
+| last720d | 2024-09-20 | 40 | 51 | 0 | 24 | 0 | 286 |
 
-## 代码规模
+## Release 资产
 
-合计: **16,067** 行代码（覆盖前 5 种语言、共 **60** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/dist-manifest.json) | 23.5 KiB | `other` |
+| [rgx-cli-aarch64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-apple-darwin.tar.xz) | 1.1 MiB | `native/darwin/arm64` |
+| [rgx-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/arm64/glibc` |
+| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [rgx-cli-installer.ps1](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.ps1) | 20.7 KiB | `other` |
+| [rgx-cli-installer.sh](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.sh) | 51.3 KiB | `other` |
+| [rgx-cli-x86_64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-apple-darwin.tar.xz) | 1.3 MiB | `native/darwin/x64` |
+| [rgx-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [rgx-cli-x86_64-pc-windows-msvc.zip](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip) | 1.8 MiB | `native/win/x64` |
+| [rgx-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-unknown-linux-gnu.tar.xz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [rgx-cli.rb](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/sha256.sum) | 598 B | `other` |
+| [source.tar.gz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz) | 1.8 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz.sha256) | 81 B | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 11,116 | 417 | 1,239 | 49 |
-| Json | 4,144 | 0 | 0 | 4 |
-| Python | 531 | 61 | 110 | 2 |
-| Toml | 139 | 27 | 14 | 4 |
-| TypeScript | 66 | 11 | 7 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/rgx) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.14.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -62,4 +94,4 @@ rgx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:24:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:34:53Z._
