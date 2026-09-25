@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1156804,
       "digest": "sha256:522223eb0d90e8242b3891b65497e1773ddd6ba28b9ee6a4fa94df1bf4271e03",
-      "download_count": 533,
+      "download_count": 541,
       "created_at": "2026-07-07T20:42:59Z",
       "updated_at": "2026-07-07T20:42:59Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-apple-darwin.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1233056,
       "digest": "sha256:e56c2c6af7b873e61bc3a65292de01f3748e7e4214c7132d8d956d11d7df1c5e",
-      "download_count": 167,
+      "download_count": 168,
       "created_at": "2026-07-07T20:42:59Z",
       "updated_at": "2026-07-07T20:42:59Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:3c1c7550783f652f3da6b4ecfe2e8ac3debb6f64a89547359204c00dc3f314fb",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-07-07T20:42:59Z",
       "updated_at": "2026-07-07T20:42:59Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 21234,
       "digest": "sha256:f534b8fab71c59e9de54d3da70d78ee6d7dbd3e1152246ccb1db466a10a594c5",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.ps1"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 52488,
       "digest": "sha256:1af38322c8883f507f03932a8508f5b1becc260391c14b276688a0c01175425e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1331012,
       "digest": "sha256:d54e7e380069ddbf9f45dd7f0f688b56c690c8c9de967ce97258cdb737b17de9",
-      "download_count": 426,
+      "download_count": 434,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-apple-darwin.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1894071,
       "digest": "sha256:0de8497a22c4d992649364312a975e1043a998f76e2201d0e086dabe580e21b8",
-      "download_count": 327,
+      "download_count": 335,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:cc16d756d984eb355a0bd0029ad3b9e1cae89ac5721643413dd172533ecf99dc",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1427348,
       "digest": "sha256:a5b3a24b29190591554bc47d15bffbd755ff595f6ce65d7b178f9dbf79474b37",
-      "download_count": 606,
+      "download_count": 616,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2451,
       "digest": "sha256:2729dd885b871682f59cc4fa1c3052d8a86665275db7ddcce4461982a020aef9",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli.rb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1934135,
       "digest": "sha256:d23719fe907664a16b418cae15a9410a5d60f5bb0db8db53ab9a8e62b2f72052",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:01Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:8c8cc9d682e37a15c3f676d37147a2b7baea9387ae1c2b6654e02a94ad9946fe",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-07-07T20:43:00Z",
       "updated_at": "2026-07-07T20:43:00Z",
       "browser_download_url": "https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz.sha256"
