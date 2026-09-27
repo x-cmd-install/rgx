@@ -48,12 +48,12 @@ Total: **16,067** lines of code across **60** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 1 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-30 | 19 | 18 | 0 | 4 | 0 | 145 |
-| 360d | 2025-10-01 | 40 | 51 | 0 | 24 | 0 | 248 |
-| last720d | 2024-10-06 | 40 | 51 | 0 | 24 | 0 | 286 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 1 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-31 | 19 | 18 | 0 | 4 | 0 | 104 |
+| 360d | 2025-10-02 | 40 | 51 | 0 | 24 | 0 | 248 |
+| last720d | 2024-10-07 | 40 | 51 | 0 | 24 | 0 | 286 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:26:33Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:59:19Z._
