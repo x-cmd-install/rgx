@@ -14,14 +14,14 @@ x install rgx
 
 ## Code insight
 
-Total: **16,067** lines of code across **60** files in the top 5 languages.
+Total: **16,671** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,116 | 417 | 1,239 | 49 |
+| Rust | 11,718 | 456 | 1,308 | 51 |
 | Json | 4,144 | 0 | 0 | 4 |
 | Python | 531 | 61 | 110 | 2 |
-| Toml | 139 | 27 | 14 | 4 |
+| Toml | 141 | 27 | 15 | 4 |
 | TypeScript | 66 | 11 | 7 | 1 |
 
 ## Source
@@ -32,8 +32,8 @@ Total: **16,067** lines of code across **60** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.14.2` (2026-07-07)
-- **Last commit**: 2026-07-07
+- **Latest**: `v0.14.3` (2026-10-27)
+- **Last commit**: 2026-10-27
 - **Assets in release**: 17
 
 ## Popularity
@@ -42,40 +42,40 @@ Total: **16,067** lines of code across **60** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 51 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 286
+- **Releases**: 41 · **Merged PRs**: 54 · **Open PRs**: 0 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 12 | 12 | 0 | 4 | 0 | 49 |
-| 360d | 2025-10-31 | 40 | 51 | 0 | 24 | 0 | 248 |
-| last720d | 2024-11-05 | 40 | 51 | 0 | 24 | 0 | 286 |
+| 30d | 2026-09-27 | 1 | 3 | 0 | 0 | 0 | 28 |
+| last60d | 2026-08-28 | 1 | 3 | 0 | 0 | 0 | 28 |
+| 90d | 2026-07-29 | 1 | 3 | 0 | 0 | 0 | 28 |
+| last180d | 2026-04-30 | 13 | 15 | 0 | 4 | 0 | 77 |
+| 360d | 2025-11-01 | 41 | 54 | 0 | 24 | 0 | 276 |
+| last720d | 2024-11-06 | 41 | 54 | 0 | 24 | 0 | 314 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [dist-manifest.json](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/dist-manifest.json) | 23.5 KiB | `other` |
-| [rgx-cli-aarch64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-apple-darwin.tar.xz) | 1.1 MiB | `native/darwin/arm64` |
-| [rgx-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
-| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/arm64/glibc` |
-| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
-| [rgx-cli-installer.ps1](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.ps1) | 20.7 KiB | `other` |
-| [rgx-cli-installer.sh](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-installer.sh) | 51.3 KiB | `other` |
-| [rgx-cli-x86_64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-apple-darwin.tar.xz) | 1.3 MiB | `native/darwin/x64` |
-| [rgx-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
-| [rgx-cli-x86_64-pc-windows-msvc.zip](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip) | 1.8 MiB | `native/win/x64` |
-| [rgx-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
-| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-unknown-linux-gnu.tar.xz) | 1.4 MiB | `native/linux/x64/glibc` |
-| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
-| [rgx-cli.rb](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/rgx-cli.rb) | 2.4 KiB | `other` |
-| [sha256.sum](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/sha256.sum) | 598 B | `other` |
-| [source.tar.gz](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz) | 1.8 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.2/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/dist-manifest.json) | 24.9 KiB | `other` |
+| [rgx-cli-aarch64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-aarch64-apple-darwin.tar.xz) | 1.1 MiB | `native/darwin/arm64` |
+| [rgx-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-aarch64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/arm64/glibc` |
+| [rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [rgx-cli-installer.ps1](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-installer.ps1) | 20.7 KiB | `other` |
+| [rgx-cli-installer.sh](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-installer.sh) | 51.3 KiB | `other` |
+| [rgx-cli-x86_64-apple-darwin.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-apple-darwin.tar.xz) | 1.3 MiB | `native/darwin/x64` |
+| [rgx-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [rgx-cli-x86_64-pc-windows-msvc.zip](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-pc-windows-msvc.zip) | 1.8 MiB | `native/win/x64` |
+| [rgx-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-unknown-linux-gnu.tar.xz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [rgx-cli.rb](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/rgx-cli.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/sha256.sum) | 598 B | `other` |
+| [source.tar.gz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/source.tar.gz) | 1.9 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Distribution status
 
@@ -94,4 +94,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:12:55Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:42:09Z._
