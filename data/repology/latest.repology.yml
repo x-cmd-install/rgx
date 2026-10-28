@@ -26,8 +26,8 @@
   srcname: devel/rgx
   binname: rgx
   visiblename: devel/rgx
-  version: 0.14.2
-  origversion: 0.14.2_3
+  version: 0.14.3
+  origversion: null
   status: newest
   summary: Regex debugger for the terminal
   maintainers:
@@ -51,7 +51,7 @@
   visiblename: rgx
   version: 0.14.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal regex tester with real-time matching and multi-engine support
   maintainers:
     - cameo007@mintux.de
@@ -64,7 +64,7 @@
   visiblename: rgx
   version: 0.14.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal regex tester with real-time matching and multi-engine support
   maintainers:
     - cameo007@mintux.de
