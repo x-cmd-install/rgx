@@ -62,9 +62,9 @@
 - repo: nix_unstable
   srcname: rgx
   visiblename: rgx
-  version: 0.14.2
+  version: 0.14.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal regex tester with real-time matching and multi-engine support
   maintainers:
     - cameo007@mintux.de
