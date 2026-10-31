@@ -48,12 +48,12 @@ Total: **16,671** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 3 | 0 | 0 | 0 | 28 |
-| last60d | 2026-08-31 | 1 | 3 | 0 | 0 | 0 | 28 |
-| 90d | 2026-08-01 | 1 | 3 | 0 | 0 | 0 | 28 |
-| last180d | 2026-05-03 | 13 | 15 | 0 | 4 | 0 | 77 |
-| 360d | 2025-11-04 | 41 | 54 | 0 | 24 | 0 | 276 |
-| last720d | 2024-11-09 | 41 | 54 | 0 | 24 | 0 | 314 |
+| 30d | 2026-10-01 | 1 | 3 | 0 | 0 | 0 | 28 |
+| last60d | 2026-09-01 | 1 | 3 | 0 | 0 | 0 | 28 |
+| 90d | 2026-08-02 | 1 | 3 | 0 | 0 | 0 | 28 |
+| last180d | 2026-05-04 | 13 | 15 | 0 | 4 | 0 | 77 |
+| 360d | 2025-11-05 | 41 | 54 | 0 | 24 | 0 | 276 |
+| last720d | 2024-11-10 | 41 | 54 | 0 | 24 | 0 | 314 |
 
 ## Release assets
 
@@ -79,11 +79,11 @@ Total: **16,671** lines of code across **62** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/rgx). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/rgx). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.14.2` | ⚠️ outdated |
+| Nix unstable | `0.14.3` | ✅ latest |
 
 ## Improve this data
 
@@ -94,4 +94,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:24:23Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:13:17Z._
