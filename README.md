@@ -14,11 +14,11 @@ x install rgx
 
 ## Code insight
 
-Total: **16,671** lines of code across **62** files in the top 5 languages.
+Total: **16,998** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,718 | 456 | 1,308 | 51 |
+| Rust | 12,045 | 468 | 1,335 | 51 |
 | Json | 4,144 | 0 | 0 | 4 |
 | Python | 531 | 61 | 110 | 2 |
 | Toml | 141 | 27 | 15 | 4 |
@@ -33,7 +33,7 @@ Total: **16,671** lines of code across **62** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.3` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-05
 - **Assets in release**: 17
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **16,671** lines of code across **62** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 54 · **Open PRs**: 1 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 314
+- **Releases**: 41 · **Merged PRs**: 56 · **Open PRs**: 1 · **Closed issues**: 24 · **Open issues**: 0 · **Commits**: 320
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 3 | 1 | 0 | 0 | 28 |
-| last60d | 2026-09-05 | 1 | 3 | 1 | 0 | 0 | 28 |
-| 90d | 2026-08-06 | 1 | 3 | 1 | 0 | 0 | 28 |
-| last180d | 2026-05-08 | 13 | 15 | 1 | 4 | 0 | 76 |
-| 360d | 2025-11-09 | 41 | 54 | 1 | 24 | 0 | 276 |
-| last720d | 2024-11-14 | 41 | 54 | 1 | 24 | 0 | 314 |
+| 30d | 2026-10-06 | 1 | 5 | 1 | 0 | 0 | 34 |
+| last60d | 2026-09-06 | 1 | 5 | 1 | 0 | 0 | 34 |
+| 90d | 2026-08-07 | 1 | 5 | 1 | 0 | 0 | 34 |
+| last180d | 2026-05-09 | 13 | 17 | 1 | 4 | 0 | 82 |
+| 360d | 2025-11-10 | 41 | 56 | 1 | 24 | 0 | 282 |
+| last720d | 2024-11-15 | 41 | 56 | 1 | 24 | 0 | 320 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:59:26Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:16:05Z._
