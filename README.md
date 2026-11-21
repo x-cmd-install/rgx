@@ -38,7 +38,7 @@ Total: **16,998** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 249 · **Forks**: 4 · **Open issues**: 24 · **Contributors**: 5
+- **Stars**: 250 · **Forks**: 4 · **Open issues**: 24 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,998** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 5 | 1 | 0 | 0 | 34 |
-| last60d | 2026-09-21 | 1 | 5 | 1 | 0 | 0 | 34 |
-| 90d | 2026-08-22 | 1 | 5 | 1 | 0 | 0 | 34 |
-| last180d | 2026-05-24 | 11 | 16 | 1 | 2 | 0 | 74 |
-| 360d | 2025-11-25 | 41 | 56 | 1 | 24 | 0 | 282 |
-| last720d | 2024-11-30 | 41 | 56 | 1 | 24 | 0 | 320 |
+| 30d | 2026-10-22 | 1 | 5 | 1 | 0 | 0 | 34 |
+| last60d | 2026-09-22 | 1 | 5 | 1 | 0 | 0 | 34 |
+| 90d | 2026-08-23 | 1 | 5 | 1 | 0 | 0 | 34 |
+| last180d | 2026-05-25 | 11 | 16 | 1 | 2 | 0 | 74 |
+| 360d | 2025-11-26 | 41 | 56 | 1 | 24 | 0 | 282 |
+| last720d | 2024-12-01 | 41 | 56 | 1 | 24 | 0 | 320 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:23:26Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:37Z._
