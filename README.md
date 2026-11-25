@@ -38,7 +38,7 @@ Total: **16,998** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 250 · **Forks**: 4 · **Open issues**: 24 · **Contributors**: 5
+- **Stars**: 252 · **Forks**: 4 · **Open issues**: 24 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,998** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 5 | 1 | 0 | 0 | 6 |
-| last60d | 2026-09-25 | 1 | 5 | 1 | 0 | 0 | 34 |
-| 90d | 2026-08-26 | 1 | 5 | 1 | 0 | 0 | 34 |
-| last180d | 2026-05-28 | 11 | 16 | 1 | 2 | 0 | 63 |
-| 360d | 2025-11-29 | 41 | 56 | 1 | 24 | 0 | 282 |
-| last720d | 2024-12-04 | 41 | 56 | 1 | 24 | 0 | 320 |
+| 30d | 2026-10-26 | 1 | 3 | 1 | 0 | 0 | 6 |
+| last60d | 2026-09-26 | 1 | 5 | 1 | 0 | 0 | 34 |
+| 90d | 2026-08-27 | 1 | 5 | 1 | 0 | 0 | 34 |
+| last180d | 2026-05-29 | 11 | 15 | 1 | 2 | 0 | 63 |
+| 360d | 2025-11-30 | 41 | 56 | 1 | 24 | 0 | 282 |
+| last720d | 2024-12-05 | 41 | 56 | 1 | 24 | 0 | 320 |
 
 ## Release assets
 
@@ -77,14 +77,6 @@ Total: **16,998** lines of code across **62** files in the top 5 languages.
 | [source.tar.gz](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/source.tar.gz) | 1.9 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/brevity1swos/rgx/releases/download/v0.14.3/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/rgx). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.14.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rgx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +86,4 @@ Install metadata for rgx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:51:52Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:05:03Z._
